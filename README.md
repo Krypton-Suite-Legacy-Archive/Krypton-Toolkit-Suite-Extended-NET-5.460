@@ -2,9 +2,17 @@
 
 =======
 
-| NuGet | Current NuGet Version | Github License |
-|---|---|---|
-| [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20Extended%20.NET%205.460-brightgreen.svg)](https://www.nuget.org/packages/KryptonExtendedToolkit5460/) | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460.svg) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.460.svg)
+| Module Name | Current Version |
+|---|---|
+| <img src="https://img.shields.io/badge/Module-Core-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460CoreModule) | 
+| <img src="https://img.shields.io/badge/Module-Colour Controls-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460ExtendedColourControlsModule) | 
+| <img src="https://img.shields.io/badge/Module-Dialogs-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460ExtendedDialogsModule) |
+| <img src="https://img.shields.io/badge/Module-Menu & Toolbar Items-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460ExtendedMenuAndToolbarItemsModule) 
+| <img src="https://img.shields.io/badge/Module-Extended Standard Controls-orange" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460ExtendedStandardControlsModule) |
+| <img src="https://img.shields.io/badge/Module-Floating Menu & Toolbars-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460FloatingMenuAndToolbarsModule) | 
+| <img src="https://img.shields.io/badge/Module-IO Components-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460IOComponentsModule) 
+| <img src="https://img.shields.io/badge/Module-Krypton Outlook Grid-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460KryptonOutlookGridModule) |
+| <img src="https://img.shields.io/badge/Module-Navi Suite-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonExtendedToolkit5460NaviSuiteModule) | 
 
 =======
 
