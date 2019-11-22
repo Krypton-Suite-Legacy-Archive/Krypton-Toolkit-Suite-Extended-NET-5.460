@@ -2888,7 +2888,7 @@
             this.pageHeadersCalendar.Text = "Calendar";
             this.pageHeadersCalendar.TextDescription = "Calendar is used by the header for each month within the month calendar.";
             this.pageHeadersCalendar.ToolTipTitle = "Page ToolTip";
-            this.pageHeadersCalendar.UniqueName = "13FCD78E50BB452213FCD78E50BB4522";
+            this.pageHeadersCalendar.UniqueName = "13FCD78E50BB460213FCD78E50BB4602";
             // 
             // pageHeadersForm
             // 

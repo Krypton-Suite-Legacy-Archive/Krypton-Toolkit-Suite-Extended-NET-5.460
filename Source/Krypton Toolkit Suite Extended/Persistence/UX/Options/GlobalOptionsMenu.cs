@@ -827,7 +827,7 @@ namespace Persistence.UX.Options
             this.kpTheme.Size = new System.Drawing.Size(661, 482);
             this.kpTheme.Text = "&Theme";
             this.kpTheme.ToolTipTitle = "Page ToolTip";
-            this.kpTheme.UniqueName = "DACF4417245246D33A84C27025B0D112";
+            this.kpTheme.UniqueName = "DACF4417246046D33A84C27025B0D112";
             // 
             // kbtnLoadTheme
             // 

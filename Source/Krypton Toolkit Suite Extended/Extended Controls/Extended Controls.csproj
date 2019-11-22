@@ -1379,7 +1379,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="KryptonToolkitSuite5460">
-      <Version>5.460.1254</Version>
+      <Version>5.460.1300</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>12.0.2</Version>

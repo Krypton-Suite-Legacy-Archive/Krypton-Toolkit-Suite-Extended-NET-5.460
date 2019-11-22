@@ -15,7 +15,7 @@ namespace ExtendedFileDialogs.Interop
         internal const string IFileDialog = "42f85136-db7e-439c-85f1-e4075d135fc8";
         internal const string IFileOpenDialog = "d57c7288-d4ad-4768-be02-9d969532d960";
         internal const string IFileSaveDialog = "84bccd23-5fde-4cdb-aea4-af64b83d78ab";
-        internal const string IFileDialogEvents = "973510DB-7D7F-452B-8975-74A85828D354";
+        internal const string IFileDialogEvents = "973510DB-7D7F-460B-8975-74A85828D354";
         internal const string IFileDialogControlEvents = "36116642-D713-4b97-9B83-7484A9D00433";
         internal const string IFileDialogCustomize = "e6fdd21a-163f-4975-9c8c-a69f1ba37034";
         internal const string IShellItem = "43826D1E-E718-42EE-BC55-A1E261C37BFE";
@@ -36,7 +36,7 @@ namespace ExtendedFileDialogs.Interop
 
     internal static class KFIDGuid
     {
-        internal const string ComputerFolder = "0AC0837C-BBF8-452A-850D-79D08E667CA7";
+        internal const string ComputerFolder = "0AC0837C-BBF8-460A-850D-79D08E667CA7";
         internal const string Favorites = "1777F761-68AD-4D8A-87BD-30B759FA33DD";
         internal const string Documents = "FDD39AD0-238F-46AF-ADB4-6C85480369C7";
         internal const string Profile = "5E6C858F-0E22-4760-9AFE-EA3317B67173";

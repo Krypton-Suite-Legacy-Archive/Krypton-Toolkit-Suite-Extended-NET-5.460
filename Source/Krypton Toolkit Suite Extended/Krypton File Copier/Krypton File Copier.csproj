@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E34D609D-583E-452A-B729-9E30E4177D1B}</ProjectGuid>
+    <ProjectGuid>{E34D609D-583E-460A-B729-9E30E4177D1B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KryptonFileCopier</RootNamespace>
     <AssemblyName>Krypton File Copier</AssemblyName>
@@ -95,7 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="KryptonToolkitSuite5460CoreModule">
-      <Version>5.460.1254</Version>
+      <Version>5.460.1300</Version>
     </PackageReference>
     <PackageReference Include="WindowsAPICodePackShell">
       <Version>1.1.0</Version>

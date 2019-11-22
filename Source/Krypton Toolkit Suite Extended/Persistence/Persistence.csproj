@@ -207,6 +207,12 @@
     <Compile Include="UX\Colours\PaletteColourCreator.Designer.cs">
       <DependentUpon>PaletteColourCreator.cs</DependentUpon>
     </Compile>
+    <Compile Include="UX\Colours\PaletteFileEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UX\Colours\PaletteFileEditor.Designer.cs">
+      <DependentUpon>PaletteFileEditor.cs</DependentUpon>
+    </Compile>
     <Compile Include="UX\Debugging\ColourSettingsViewer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -239,19 +245,19 @@
       <Version>1.0.5</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5460CoreModule">
-      <Version>5.460.1254</Version>
+      <Version>5.460.1300</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5460DockingModule">
-      <Version>5.460.743</Version>
+      <Version>5.460.745</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5460NavigatorModule">
-      <Version>5.460.764</Version>
+      <Version>5.460.774</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5460RibbonModule">
-      <Version>5.460.818</Version>
+      <Version>5.460.828</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5460WorkspaceModule">
-      <Version>5.460.717</Version>
+      <Version>5.460.719</Version>
     </PackageReference>
     <PackageReference Include="snt.ScintillaNet.FindReplaceDialog">
       <Version>1.4.0</Version>

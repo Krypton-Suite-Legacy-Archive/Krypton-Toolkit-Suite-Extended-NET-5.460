@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\IconExtractor.cs" />
     <Compile Include="Classes\ShellIcon.cs" />
     <Compile Include="Controls\KryptonFileSystemTreeView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,11 +72,12 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="KryptonToolkitSuite5460CoreModule">
-      <Version>5.460.1254</Version>
+      <Version>5.460.1300</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Icons\Folder.ico" />
+    <Compile Include="Classes\ShellIconNative.cs" />
     <None Include="Resources\active_search.png" />
   </ItemGroup>
   <ItemGroup>

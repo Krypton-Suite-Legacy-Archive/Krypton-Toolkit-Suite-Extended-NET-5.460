@@ -36,7 +36,7 @@
             this.kbtnGenerateNewFile = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.kryptonPanel2 = new ComponentFactory.Krypton.Toolkit.KryptonPanel();
             this.filePane = new EasyScintilla.SimpleEditor();
-            this.acmPalette = new AutocompleteMenuNS.AutocompleteMenu();
+            //this.acmPalette = new AutocompleteMenuNS.AutocompleteMenu();
             ((System.ComponentModel.ISupportInitialize)(this.kryptonPanel1)).BeginInit();
             this.kryptonPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.kryptonPanel2)).BeginInit();
@@ -121,11 +121,11 @@
             // 
             // acmPalette
             // 
-            this.acmPalette.Colors = ((AutocompleteMenuNS.Colors)(resources.GetObject("acmPalette.Colors")));
-            this.acmPalette.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
-            this.acmPalette.ImageList = null;
-            this.acmPalette.Items = new string[0];
-            this.acmPalette.TargetControlWrapper = null;
+            //this.acmPalette.Colors = ((AutocompleteMenuNS.Colors)(resources.GetObject("acmPalette.Colors")));
+            //this.acmPalette.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            //this.acmPalette.ImageList = null;
+            //this.acmPalette.Items = new string[0];
+            //this.acmPalette.TargetControlWrapper = null;
             // 
             // PaletteFileEditor
             // 
@@ -158,6 +158,6 @@
         private ComponentFactory.Krypton.Toolkit.KryptonButton kbtnGenerateColours;
         private ComponentFactory.Krypton.Toolkit.KryptonButton kbtnSaveFile;
         private ComponentFactory.Krypton.Toolkit.KryptonButton kbtnOpenFile;
-        private AutocompleteMenuNS.AutocompleteMenu acmPalette;
+        //private AutocompleteMenuNS.AutocompleteMenu acmPalette;
     }
 }

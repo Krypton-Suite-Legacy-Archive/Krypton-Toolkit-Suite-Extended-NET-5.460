@@ -2009,9 +2009,9 @@ namespace KryptonWizard.Native
             /// <para>Name:     System.Contact.FirstName -- PKEY_Contact_FirstName</para>
             /// <para>Description:</para>
             /// <para>Type:     String -- VT_LPWSTR (For variants: VT_BSTR)</para>
-            /// <para>FormatID: {14977844-6B49-4AAD-A714-A4513BF60460}, 100</para>
+            /// <para>FormatID: {14977844-6B49-4AAD-A714-A4603BF60460}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey FirstName => new ShellItemPropertyKey(new Guid("{14977844-6B49-4AAD-A714-A4513BF60460}"), 100);
+            public static ShellItemPropertyKey FirstName => new ShellItemPropertyKey(new Guid("{14977844-6B49-4AAD-A714-A4603BF60460}"), 100);
 
             /// <summary>
             /// <para>Name:     System.Contact.FullName -- PKEY_Contact_FullName</para>
@@ -3251,9 +3251,9 @@ namespace KryptonWizard.Native
             /// <para>Description: Indicates the reference for the altitude property. (eg: above sea level, below sea level, absolute value)
             ///</para>
             /// <para>Type:     Byte -- VT_UI1</para>
-            /// <para>FormatID: {46AC629D-75EA-4515-867F-6DC4321C5844}, 100</para>
+            /// <para>FormatID: {46AC629D-75EA-4605-867F-6DC4321C5844}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey AltitudeRef => new ShellItemPropertyKey(new Guid("{46AC629D-75EA-4515-867F-6DC4321C5844}"), 100);
+            public static ShellItemPropertyKey AltitudeRef => new ShellItemPropertyKey(new Guid("{46AC629D-75EA-4605-867F-6DC4321C5844}"), 100);
 
             /// <summary>
             /// <para>Name:     System.GPS.AreaInformation -- PKEY_GPS_AreaInformation</para>
@@ -3316,9 +3316,9 @@ namespace KryptonWizard.Native
             ///PKEY_GPS_DestDistanceDenominator.
             ///</para>
             /// <para>Type:     Double -- VT_R8</para>
-            /// <para>FormatID: {A93EAE04-6804-4F24-AC81-09B266452118}, 100</para>
+            /// <para>FormatID: {A93EAE04-6804-4F24-AC81-09B266460118}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey DestDistance => new ShellItemPropertyKey(new Guid("{A93EAE04-6804-4F24-AC81-09B266452118}"), 100);
+            public static ShellItemPropertyKey DestDistance => new ShellItemPropertyKey(new Guid("{A93EAE04-6804-4F24-AC81-09B266460118}"), 100);
 
             /// <summary>
             /// <para>Name:     System.GPS.DestDistanceDenominator -- PKEY_GPS_DestDistanceDenominator</para>
@@ -3354,9 +3354,9 @@ namespace KryptonWizard.Native
             ///PKEY_GPS_DestLatitudeDenominator.
             ///</para>
             /// <para>Type:     Multivalue Double -- VT_VECTOR | VT_R8  (For variants: VT_ARRAY | VT_R8)</para>
-            /// <para>FormatID: {9D1D7CC5-5C39-451C-86B3-928E2D18CC47}, 100</para>
+            /// <para>FormatID: {9D1D7CC5-5C39-460C-86B3-928E2D18CC47}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey DestLatitude => new ShellItemPropertyKey(new Guid("{9D1D7CC5-5C39-451C-86B3-928E2D18CC47}"), 100);
+            public static ShellItemPropertyKey DestLatitude => new ShellItemPropertyKey(new Guid("{9D1D7CC5-5C39-460C-86B3-928E2D18CC47}"), 100);
 
             /// <summary>
             /// <para>Name:     System.GPS.DestLatitudeDenominator -- PKEY_GPS_DestLatitudeDenominator</para>
@@ -3557,9 +3557,9 @@ namespace KryptonWizard.Native
             /// <para>Description: Numerator of PKEY_GPS_Longitude
             ///</para>
             /// <para>Type:     Multivalue UInt32 -- VT_VECTOR | VT_UI4  (For variants: VT_ARRAY | VT_UI4)</para>
-            /// <para>FormatID: {02B0F689-A914-4E45-821D-1DDA452ED2C4}, 100</para>
+            /// <para>FormatID: {02B0F689-A914-4E45-821D-1DDA460ED2C4}, 100</para>
             /// </summary>
-            public static ShellItemPropertyKey LongitudeNumerator => new ShellItemPropertyKey(new Guid("{02B0F689-A914-4E45-821D-1DDA452ED2C4}"), 100);
+            public static ShellItemPropertyKey LongitudeNumerator => new ShellItemPropertyKey(new Guid("{02B0F689-A914-4E45-821D-1DDA460ED2C4}"), 100);
 
             /// <summary>
             /// <para>Name:     System.GPS.LongitudeRef -- PKEY_GPS_LongitudeRef</para>
@@ -6933,7 +6933,7 @@ namespace KryptonWizard.Native
 
         /// <securitynote>Critical: Suppresses unmanaged code security.</securitynote>
         [SuppressUnmanagedCodeSecurity]
-        [ComImport, InterfaceType(ComInterfaceType.InterfaceIsIUnknown), Guid("973510DB-7D7F-452B-8975-74A85828D354")]
+        [ComImport, InterfaceType(ComInterfaceType.InterfaceIsIUnknown), Guid("973510DB-7D7F-460B-8975-74A85828D354")]
         internal interface IFileDialogEvents
         {
             [PreserveSig]
